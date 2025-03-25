@@ -1,3 +1,2 @@
-<div id="header" align="center">
-  <img decoding="async" src="https://github.com/noelianav91/noelianav91/blob/main/Banner%20Github.png" width="800"/>
-</div>
+
+![image](https://github.com/user-attachments/assets/08854a01-71de-4971-8aef-ea27aa310532)
