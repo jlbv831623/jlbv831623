@@ -5,7 +5,7 @@
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-* :telescope: Actualmente estoy trabajando en el departamento de compras de una empresa retail de alimentación pero necesito nuevos retos :muscle:
+* :telescope: Actualmente estoy en la búsqueda de un trabajo como QA Engineer donde pueda aportar mis conocimientos y experiencia :muscle:
 
 * :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
 
