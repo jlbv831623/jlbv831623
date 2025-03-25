@@ -7,9 +7,9 @@
 
 * :telescope: Actualmente estoy en la búsqueda de un trabajo como QA Engineer donde pueda aportar mis conocimientos y experiencia :muscle:
 
-* :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
+* :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de JIRA y POSTMAN.
 
-* :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo
+* :heartbeat: Me encanta garantizar la calidad y desempeño de las APPs y sistemas, teniendo una versión mejorada del mismo. 
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Juan-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/juan-luis-104a2a125/)
 
