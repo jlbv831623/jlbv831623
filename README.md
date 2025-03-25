@@ -11,7 +11,7 @@
 
 * :heartbeat: Me encanta garantizar la calidad y desempeño de las APPs y sistemas, teniendo una versión mejorada del mismo. 
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Juan-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/juan-luis-104a2a125/)
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Juan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-luis-104a2a125/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlbv831623&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
